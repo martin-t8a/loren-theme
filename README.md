@@ -1,2 +1,2 @@
 # loren-theme
-tema diseñado para wordpress
+Tema ligero, diseñado con CSS puro para Wordpress
